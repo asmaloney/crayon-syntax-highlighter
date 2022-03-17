@@ -6,9 +6,9 @@ Written in PHP and jQuery. Crayon is a Wordpress plugin, but can be used in any 
 
 ## Fork
 
-[asmaloney](https://github.com/asmaloney) forked v2.8.4 [from here](https://github.com/aramk/crayon-syntax-highlighter) since it is no longer be maintained.
+[asmaloney](https://github.com/asmaloney) forked v2.8.4 [from here](https://github.com/aramk/crayon-syntax-highlighter/commit/70305feefcbc166dd2a3ec46cb26e7000855e759) since it is no longer maintained.
 
-I fixed several bugs to make it work with PHP 8.
+I removed the Ada and VBNet submodules since they were broken and fixed several bugs to make it work with PHP 8.
 
 ## Tag Editor
 
